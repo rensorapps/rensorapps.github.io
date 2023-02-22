@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: "RENSOR Apps"
 date: 2023-02-22 12:12:12 -0000
 categories: Apps
