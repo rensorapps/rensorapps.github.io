@@ -4,6 +4,6 @@ plugins:
 title: RENSOR
 description: Apps
 show_downloads: false
-logo: /_images/logo.png
+logo: /assets/images/logo.png
 
 
