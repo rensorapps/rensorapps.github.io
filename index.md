@@ -14,6 +14,11 @@ categories: Apps
 ### Clock App V1
 
 Our first app, Clock App is our first iOS application which has been a learning curve for us both to say the least.
+
+Clock App was born from our frustration at how the iOS clock alarm feature made it difficult to set daily alarms
+and see all of your alarms at a glance.
+
+<img style="height: 200px;" src="/images/assets/eat_pray_love.png" />
  
 Currently undergoing testing and finalisation via TestFlight. You can take a look and help us improve and grow by
 requesting access to the test group by [clicking here](https://testflight.apple.com/join/hnngxtcL). 
