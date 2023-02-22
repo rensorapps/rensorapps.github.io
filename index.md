@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "RENSOR Apps"
 date: 2023-02-22 12:12:12 -0000
 categories: Apps
