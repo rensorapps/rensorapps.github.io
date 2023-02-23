@@ -25,6 +25,10 @@
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}?1" alt="Logo" /></a>
         {% endif %}
 
+        {% if site.insta %}
+          <p class="view"><a href="{{ site.insta }}"><small>@rensorapps</small></a></p>
+        {% endif %}
+
         <!-- Layout modified from https://github.com/pages-themes/minimal/blob/master/_layouts/default.html -->
 
       </header>
