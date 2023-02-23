@@ -25,11 +25,6 @@
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}?1" alt="Logo" /></a>
         {% endif %}
 
-        {% if site.insta %}
-          <br>
-          <p class="view">Instagram: <a href="{{ site.insta }}"><small style="font-weight: bold;">@rensorapps</small></a></p>
-        {% endif %}
-
         <!-- Layout modified from https://github.com/pages-themes/minimal/blob/master/_layouts/default.html -->
 
       </header>
@@ -40,6 +35,9 @@
       </section>
       <footer>
         <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rensorapps" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFFFFF" ></script>
+        <br>
+        <p>Instagram:&nbsp;<a href="{{ site.insta }}"><small style="font-weight: bold;">@rensorapps</small></a></p>
+        <br>
         <p><small>&copy; 2023</small></p>
       </footer>
     </div>
