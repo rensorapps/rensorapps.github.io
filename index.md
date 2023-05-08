@@ -9,7 +9,8 @@ categories: Apps
 
 <br>
 
-RENSOR App Collection is launching a suite of apps for iOS starting in 2023.
+[RENSOR App Collection](https://apps.apple.com/us/developer/lauren-harris/id1620828813) is launching a suite of apps for iOS starting in 2023.
+
 
 ## Projects
 
