@@ -27,15 +27,10 @@ and see all of your alarms at a glance.
 
 <img style="height: 400px;" src="/assets/images/eat_pray_love.png?1" />
 
-<!-- Currently undergoing testing and finalisation via TestFlight. You can take a look and help us improve and grow by requesting access to the test group by [clicking here](https://testflight.apple.com/join/hnngxtcL). -->
-
-
-
-![image](/assets/images/stopwatch-logo.png)
 
 ### Simple Stopwatch
 
 [Simple Stopwatch is Available on the Apple App Store.](https://apps.apple.com/app/id6448793559)
 
-<img style="height: 400px;" src="/assets/images/stopwatch-title.png" /> <img style="height: 400px;" src="/assets/images/stopwatch-action.png" />
+<img style="height: 400px;" src="/assets/images/stopwatch-simple-cropped.png" />
 
