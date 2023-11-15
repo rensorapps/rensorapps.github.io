@@ -41,6 +41,8 @@ Display a camera preview on your desktop in an assortment of cool styles!
 
 [DispLayover is Available on the Apple App Store.](https://apps.apple.com/au/app/displayover/id6471848731?mt=12)
 
+*[and Github!](https://github.com/rensorapps/displayover#-displayover)*
+
 <img style="width: auto;" src="https://user-images.githubusercontent.com/92299/282210086-a3e648e8-4b3d-4aea-b7e6-eb548e29d314.png" />
 
 
