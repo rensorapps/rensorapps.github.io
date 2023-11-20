@@ -3,6 +3,7 @@ layout: home
 title: "RENSOR Apps"
 date: 2023-02-22 12:12:12 -0000
 categories: Apps
+donations: true
 ---
 
 <!-- ![image](https://user-images.githubusercontent.com/92299/220574713-c0d4f0c3-a284-410f-a59e-d3b5a84e47ba.png) --> 
@@ -12,11 +13,9 @@ categories: Apps
 [RENSOR App Collection](https://apps.apple.com/us/developer/lauren-harris/id1620828813) is launching a suite of apps for iOS starting in 2023.
 
 
-## Projects
+## ClockApp
 
 ![image](https://user-images.githubusercontent.com/92299/220574806-efecbde8-0ea5-4b81-bddf-9fe7b43da2ee.png)
-
-### ClockApp
 
 Our first app, ClockApp is our first iOS application which has been a learning curve for us to say the least.
 
@@ -28,14 +27,14 @@ and see all of your alarms at a glance.
 <img style="height: 400px;" src="/assets/images/eat_pray_love.png?1" />
 
 
-### Simple Stopwatch
+## Simple Stopwatch
 
 [Simple Stopwatch is Available on the Apple App Store.](https://apps.apple.com/app/id6448793559)
 
 <img style="height: 400px;" src="/assets/images/stopwatch-simple-cropped.png" />
 
 
-### DispLayover
+## [DispLayover](/pages/displayover)
 
 Display a camera preview on your desktop in an assortment of cool styles!
 

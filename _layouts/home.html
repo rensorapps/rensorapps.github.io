@@ -22,7 +22,13 @@
         -->
 
         {% if site.logo %}
-          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}?1" alt="Logo" /></a>
+          <a href="{{ "/" }}"><img src="{{site.logo | relative_url}}?1" alt="Logo" /></a>
+        {% endif %}
+
+        {% if page.subtitle %}
+          <br />
+          <br />
+          <h2 style="text-align: center;"><a href="{{ page.url }}">{{ page.subtitle }}</a></h2>
         {% endif %}
 
         <!-- Layout modified from https://github.com/pages-themes/minimal/blob/master/_layouts/default.html -->
@@ -34,7 +40,9 @@
 
       </section>
       <footer>
-        <p><a href="https://www.buymeacoffee.com/rensorapps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+        {% if page.donations %}
+          <p><a href="https://www.buymeacoffee.com/rensorapps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+        {% endif %}
         <!-- https://github.com/gauravghongde/social-icons/ -->
         <ul style="list-style: none; margin-left: 0; padding-left: 0;">
           <li>
